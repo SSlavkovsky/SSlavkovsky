@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shawn Slavkovsky</h1>
 <h3 align="center">A Technical Project Manager turned Software Engineer</h3>
 
-- 🔭 I’m currently working on **100Devs - 100 Hour Project**
+- 🔭 I’m currently working on **100Devs Agency**
 
-- 🌱 I’m currently learning **Javascript, React, Ruby on Rails**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Project Management, Software Engineering**
 
 - 📫 How to reach me **slavkovskys@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
